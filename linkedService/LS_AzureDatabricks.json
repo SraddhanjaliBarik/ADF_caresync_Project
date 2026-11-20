@@ -11,7 +11,7 @@
 					"referenceName": "LS_AzureKeyVault",
 					"type": "LinkedServiceReference"
 				},
-				"secretName": "adb-token"
+				"secretName": "adb-new-token"
 			},
 			"existingClusterId": "1029-194718-5a6takly"
 		}
